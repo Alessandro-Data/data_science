@@ -1,1 +1,1 @@
-# data_science
+# titanic_app
